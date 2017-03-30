@@ -93,15 +93,21 @@
             <div class="caption">
               <div class="caption-content">
                 <i class="fa fa-search-plus fa-3x"></i>
+                <h3>Read more</h3>
               </div>
             </div>
-            <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/portfolio/{{article.image}}" class="img-responsive" alt="">
+            <img style="width:100%;" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/portfolio/{{article.image}}" class="img-responsive" alt="">
           </a>
           <h4>{{article.speaker}}</h4>
+          <h6>{{article.speaker_title}}</h6>
+          <h6>{{article.organization}}</h6>
         </div>
         <div class="col-xs-8 col-md-9">
           <h3>{{article.title}}</h3>
           {{article.summary}}
+          <p>
+            <a style="color: #004aab;" href="#portfolioModal{{loop.index}}" data-toggle="modal">Read more</a>
+          </p>
         </div>
       </div>
     </div>

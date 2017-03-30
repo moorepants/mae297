@@ -3,7 +3,7 @@
 :speaker_title: Professor of Orthopaedic Surgery
 :date: 2017-05-18
 :image: hargens.jpg
-:organizationn: School of Medicine, University of California, San Diego
+:organization: School of Medicine, University of California, San Diego
 :org_website: http://som.ucsd.edu
 :personal_website: http://bones.ucsd.edu
 
