@@ -8,8 +8,9 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
+from pelicanconf import *
 
-SITEURL = 'http://moorepants.github.io/mae297'
+SITEURL = 'https://moorepants.github.io/mae297'
 RELATIVE_URLS = False
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
