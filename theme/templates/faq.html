@@ -1,0 +1,49 @@
+<!-- http://www.prepbootstrap.com/bootstrap-template/faq-example -->
+<section id="faq" class="success">
+  <div class="row">
+    <div class="col-lg-3"></div>
+    <div class="col-lg-6">
+
+      <h3>FAQ</h3>
+
+      <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert">
+          <span aria-hidden="true">&times;</span>
+          <span class="sr-only">Close</span>
+        </button>
+          This section contains answers to common questions about the course.
+          If you cannot find an answer to your question, make sure to contact
+          us.
+      </div>
+
+      {% set q_idx = [0] %}
+      {% for section, questions in FAQ.iteritems() %}
+      <div class="panel-group" id="accordion">
+        <div class="faqHeader">{{ section }}</div>
+        {% for question, answer in questions.iteritems() %}
+        {% if q_idx.append(q_idx.pop() + 1) %}{% endif %}
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a class="accordion-toggle"
+                 data-toggle="collapse"
+                 data-parent="#accordion"
+                 href="#collapse{{ q_idx[0] }}">
+                 {{ question }}
+              </a>
+            </h4>
+          </div>
+          <div id="collapse{{ q_idx[0] }}" class="panel-collapse collapse">
+            <div class="panel-body">
+              {{ answer }}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+
+    </div>
+    <div class="col-lg-3"></div>
+  </div>
+</section>

@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+
+{% block title %}
+{{SITENAME}}
+{% endblock %}
+
+{% block nav %}
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#page-top">
+              <!-- TODO : This logo is hacked in, should be done better. -->
+              <img class="img-responsive" style="margin: 0 0 0.1em" width=100em src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/ucdavis_logo_gold.png" alt="">
+              {{SITENAME}}
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+          {% for link, title  in NAVLINKS %}
+            {%if link == '#page-top' %}
+            <li class="hidden">
+              <a href="{{link}}"></a>
+            </li>
+            {% else %}
+            <li class="page-scroll">
+              <a href="{{link}}">{{title}}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+{% endblock %}
+
+{% block header %}
+
+<!-- Header -->
+<header>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3">
+        <img class="img-responsive" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/female.png" alt="">
+      </div>
+      <div class="col-lg-6">
+        <div class="intro-text">
+          <span class="name">{{SITENAME}}</span>
+          <hr class="star-light">
+          <span class="skills">{{SITESUBTITLE}}</span>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <img class="img-responsive" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/male.png" alt="">
+      </div>
+    </div>
+  </div>
+</header>
+
+{% endblock %}
+
+
+{% block grid %}
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class='success'>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>{{PORTFOLIO}}</h2>
+        <hr class="star-light star-light-wide">
+      </div>
+    </div>
+      {% if articles %}
+      {% for article in articles_page.object_list|sort(attribute='date') %}
+    <div class="row">
+      <div class="portfolio-item">
+        <div class="col-xs-4 col-md-3 col-lg-3">
+          <h3>{{article.date.strftime('%B %d, %Y')}}</h3>
+          <a href="#portfolioModal{{loop.index}}" class="portfolio-link" data-toggle="modal">
+            <div class="caption">
+              <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+              </div>
+            </div>
+            <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/portfolio/{{article.image}}" class="img-responsive" alt="">
+          </a>
+          <h4>{{article.speaker}}</h4>
+        </div>
+        <div class="col-xs-8 col-md-9">
+          <h3>{{article.title}}</h3>
+          {{article.summary}}
+        </div>
+      </div>
+    </div>
+    <hr class="star-light star-light-wide">
+      {% endfor %}
+      {% endif %}
+  </div>
+</section>
+
+{% endblock %}
+
+{% block modals %}
+  {% if articles %}
+    {% for article in articles_page.object_list|sort(attribute='date') %}
+    <div class="portfolio-modal modal fade" id="portfolioModal{{loop.index}}" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl">
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-10 col-lg-offset-2">
+              <div class="modal-body">
+                <h2 style="text-align: center;">{{article.title}}</h2>
+                <h3 style="text-align: center;">{{article.date.strftime("%B %d,
+                  %Y")}}</h3>
+                <hr class="star-primary">
+                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/portfolio/{{article.image}}" class="img-responsive img-centered" alt="">
+                <a href="{{article.personal_website}}">
+                  <h3 style="text-align: center;">{{article.speaker}}</h3>
+                </a>
+                <h4 style="text-align: center;">{{article.speaker_title}}</h4>
+                <a href="{{article.org_website}}">
+                  <h4 style="text-align: center;">{{article.organization}}</h4>
+                </a>
+                <h2>Abstract</h2>
+                {{article.content}}
+                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  {% endif %}
+{% endblock %}
