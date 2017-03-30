@@ -103,7 +103,9 @@
           <h6>{{article.organization}}</h6>
         </div>
         <div class="col-xs-8 col-md-9">
+            <a style="color: white;" href="#portfolioModal{{loop.index}}" data-toggle="modal">
           <h3>{{article.title}}</h3>
+          </a>
           {{article.summary}}
           <p>
             <a style="color: #004aab;" href="#portfolioModal{{loop.index}}" data-toggle="modal">Read more</a>
