@@ -39,7 +39,45 @@ exercise devices to maintain astronaut health and performance in space. This
 research is translated to help post-surgical treatment and rehabilitation of
 orthopaedic patients, and to improve performance of athletes.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-05-18:mae297/musculoskeletal-loss-and-exercise-countermeasures-for-space-flight.html</guid></item><item><title>TBA - Computational Biomechanics</title><link>https://moorepants.github.io/mae297/tba-computational-biomechanics.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 11 May 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-05-11:mae297/tba-computational-biomechanics.html</guid></item><item><title>TBA - HVAC, Companies, Patents, Inventions</title><link>https://moorepants.github.io/mae297/tba-hvac-companies-patents-inventions.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 04 May 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-05-04:mae297/tba-hvac-companies-patents-inventions.html</guid></item><item><title>TBA - Sheet Metal Forming</title><link>https://moorepants.github.io/mae297/tba-sheet-metal-forming.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-04-27:mae297/tba-sheet-metal-forming.html</guid></item><item><title>TBA - Computational Science and Engineering</title><link>https://moorepants.github.io/mae297/tba-computational-science-and-engineering.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-04-20:mae297/tba-computational-science-and-engineering.html</guid></item><item><title>TBA - Appropriate Technology</title><link>https://moorepants.github.io/mae297/tba-appropriate-technology.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 13 Apr 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-04-13:mae297/tba-appropriate-technology.html</guid></item><item><title>High Power Handling Hot-Switching RF-MEMS Switches</title><link>https://moorepants.github.io/mae297/high-power-handling-hot-switching-rf-mems-switches.html</link><description>&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-05-18:mae297/musculoskeletal-loss-and-exercise-countermeasures-for-space-flight.html</guid></item><item><title>TBA - Computational Biomechanics</title><link>https://moorepants.github.io/mae297/tba-computational-biomechanics.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 11 May 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-05-11:mae297/tba-computational-biomechanics.html</guid></item><item><title>TBA - HVAC, Companies, Patents, Inventions</title><link>https://moorepants.github.io/mae297/tba-hvac-companies-patents-inventions.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 04 May 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-05-04:mae297/tba-hvac-companies-patents-inventions.html</guid></item><item><title>Systematic Understanding and Modeling of Origami Sheet Metal folding for Enhanced Mechanical Properties and Topological Re-configurability</title><link>https://moorepants.github.io/mae297/systematic-understanding-and-modeling-of-origami-sheet-metal-folding-for-enhanced-mechanical-properties-and-topological-re-configurability.html</link><description>&lt;p&gt;Emerging fabrication process for mechanical structures can offer advantages in
+terms of reduced energy requirements or increased design flexibility. However,
+the body of knowledge lacks the design consideration of such components to
+optimize the final part's characteristics. Researchers have established best
+practices and design considerations for traditional manufacturing processes to
+reduce the product cycle and increase the efficiency and quality of final
+components. This talk will discuss the implementation of design-for
+manufacturing approach for Origami sheet metal (OSM) folding fabrication
+process.&lt;/p&gt;
+&lt;p&gt;OSM folded structures are promising topological entities that can be folded
+from a flat metal sheet to complex 3-dimensional geometrically constrained
+structures. It can offer a reduced demand on the manufacturing and design
+resources such as energy, heavy machinery, and complex die design. In addition,
+the OSM structures can exploit materials with high strength-to-weight ratios
+such as aluminum and stainless steel. Despite its potential, there is a lack in
+the understanding of the parameters affecting the topological
+re-configurability and load bearing capabilities for full scale OSM structures.
+Specifically, the folding performance through the thickness of metal materials
+with focus on failure mechanism along the fold lines. The technique of
+combining folding structures and metal materials poses challenges that require
+further investigation. This talk discusses the extension of the Origami
+technique to the fold forming of sheet metal products represented in modeling
+approach and design considerations for the topological variations, the
+geometrical validity, and mechanical performance analysis.&lt;/p&gt;
+&lt;div class="section" id="biography"&gt;
+&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Ala Qattawi is an assistant professor of Mechanical Engineering at University
+of California, Merced. She received a PhD in Automotive Engineering from
+Clemson University, SC, in 2012 and became the first women in the United States
+to earn a PhD degree in Automotive Engineering. Her research interests include
+design for manufacturing, sustainable manufacturing, and Origami  sheet metal
+folding as well as applications to the vehicle’s body in white design and
+structure. Qattawi received the Hellman Faculty Award in 2016 and was named an
+Emerging Scholar of the Year 2017 by the Diverse: Issues In Higher Education
+Emerging Scholar. Qattawi's research has been funded by the University of
+California President Office, The Hellman Foundation, and The University of
+California Institute for Mexico and the United States (UC MEXUS).&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-04-27:mae297/systematic-understanding-and-modeling-of-origami-sheet-metal-folding-for-enhanced-mechanical-properties-and-topological-re-configurability.html</guid></item><item><title>TBA - Computational Science and Engineering</title><link>https://moorepants.github.io/mae297/tba-computational-science-and-engineering.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-04-20:mae297/tba-computational-science-and-engineering.html</guid></item><item><title>TBA - Appropriate Technology</title><link>https://moorepants.github.io/mae297/tba-appropriate-technology.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason K. Moore, PhD</dc:creator><pubDate>Thu, 13 Apr 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:moorepants.github.io,2017-04-13:mae297/tba-appropriate-technology.html</guid></item><item><title>High Power Handling Hot-Switching RF-MEMS Switches</title><link>https://moorepants.github.io/mae297/high-power-handling-hot-switching-rf-mems-switches.html</link><description>&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
 and near-zero dc power consumption, radio frequency micro-electromechanical
 (RF-MEMS) switches have been an emerging technology with significant potential
 in many high frequency circuits and systems, especially those requiring
