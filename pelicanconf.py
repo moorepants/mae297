@@ -12,7 +12,7 @@ SITEURL = ''
 THEME = 'theme'
 THEME_STATIC_DIR = 'static'
 PATH = 'content'
-STATIC_PATHS = ['images', 'js', 'css', 'fonts']
+STATIC_PATHS = ['headshots', 'images', 'js', 'css', 'fonts']
 TIMEZONE = 'US/Pacific'
 
 DEFAULT_DATE_FORMAT = ('%Y')
