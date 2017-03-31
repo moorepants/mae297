@@ -1,6 +1,6 @@
 :title: High Power Handling Hot-Switching RF-MEMS Switches
 :speaker: Prof. Xiaoguang "Leo" Liu
-:speaker_title: Assitant Professor
+:speaker_title: Assistant Professor
 :date: 2017-04-06
 :image: liu.jpg
 :organization: Department of Electrical and Computer Engineering, University of California, Davis
