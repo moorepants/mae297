@@ -149,8 +149,8 @@
                 <a href="{{article.org_website}}">
                   <h4 style="text-align: center;">{{article.organization}}</h4>
                 </a>
-                <h2>Abstract</h2>
-                {{article.content}}
+                <h3>Abstract</h3>
+                {{article.content.replace('h2', 'h3')}}
                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
               </div>
             </div>
