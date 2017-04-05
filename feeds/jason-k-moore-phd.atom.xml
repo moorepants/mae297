@@ -109,7 +109,41 @@ Emerging Scholar. Qattawi's research has been funded by the University of
 California President Office, The Hellman Foundation, and The University of
 California Institute for Mexico and the United States (UC MEXUS).&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>TBA - Computational Science and Engineering</title><link href="https://moorepants.github.io/mae297/tba-computational-science-and-engineering.html" rel="alternate"></link><published>2017-04-20T00:00:00-07:00</published><updated>2017-04-20T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-20:mae297/tba-computational-science-and-engineering.html</id><summary type="html"></summary></entry><entry><title>TBA - Appropriate Technology</title><link href="https://moorepants.github.io/mae297/tba-appropriate-technology.html" rel="alternate"></link><published>2017-04-13T00:00:00-07:00</published><updated>2017-04-13T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-13:mae297/tba-appropriate-technology.html</id><summary type="html"></summary></entry><entry><title>High Power Handling Hot-Switching RF-MEMS Switches</title><link href="https://moorepants.github.io/mae297/high-power-handling-hot-switching-rf-mems-switches.html" rel="alternate"></link><published>2017-04-06T00:00:00-07:00</published><updated>2017-04-06T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-06:mae297/high-power-handling-hot-switching-rf-mems-switches.html</id><summary type="html">&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
+</summary></entry><entry><title>Modeling and Simulation of Advanced Reactors and Fuel Cycles - Computational Science and Engineering</title><link href="https://moorepants.github.io/mae297/modeling-and-simulation-of-advanced-reactors-and-fuel-cycles-computational-science-and-engineering.html" rel="alternate"></link><published>2017-04-20T00:00:00-07:00</published><updated>2017-04-20T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-20:mae297/modeling-and-simulation-of-advanced-reactors-and-fuel-cycles-computational-science-and-engineering.html</id><summary type="html">&lt;p&gt;Nuclear power provides the majority of our nation's safe, reliable, carbon free
+energy.  Advanced nuclear reactors and nuclear fuel cycles promise to further
+improve passive safety, fuel utilization, and environmental impacts of this key
+energy source. This seminar will discuss open, reproducible, computational
+approaches to modeling and simulation of the multiple coupled physics and
+scales inherent to these systems. Approaches will include (1) agent based
+modeling of future energy growth, reprocessing, and fuel management scenarios,
+(2) the interplay between probabilistic and deterministic neutron transport
+methods for design and safety analysis, and (3) development of reactor physics
+kernels for the MOOSE (multiphysics object oriented simulation environment)
+framework.&lt;/p&gt;
+&lt;div class="section" id="biography"&gt;
+&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Dr. Kathryn D. Huff is currently an Assistant Professor in the Department of
+Nuclear, Plasma, and Radiological Engineering at the University of Illinois at
+Urbana-Champaign where she leads the Advanced Reactors and Fuel Cycles Research
+Group (arfc.npre.illinois.edu). She holds an affiliate faculty position with
+the National Center for Supercomputing Applications and is one of the
+University of Illinois' most recent Blue Waters Professors.&lt;/p&gt;
+&lt;p&gt;She was previously a Postdoctoral Fellow with both the Nuclear Science and
+Security Consortium and the Berkeley Institute for Data Science at the
+University of California - Berkeley. She received her PhD in Nuclear
+Engineering from the University of Wisconsin-Madison in August 2013 and her
+undergraduate degree in Physics from the University of Chicago.&lt;/p&gt;
+&lt;p&gt;Her current research focuses on modeling and simulation of advanced nuclear
+reactors and fuel cycles. She is currently the elected chair of the Fuel Cycle
+and Waste Management Division of the American Nuclear Society. Through
+leadership within the Hacker Within, Software Carpentry, SciPy, the Journal of
+Open Source Software, and other initiatives she strives to advocate for best
+practices in open, reproducible scientific computing.  With colleagues,
+collaborators, and friends, she has co-authored two books to help scientists
+with these practices: Effective Computation in Physics, O'Reilly, 2015 and The
+Practice of Reproducible Research, UC Press, 2017.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>TBA - Appropriate Technology</title><link href="https://moorepants.github.io/mae297/tba-appropriate-technology.html" rel="alternate"></link><published>2017-04-13T00:00:00-07:00</published><updated>2017-04-13T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-13:mae297/tba-appropriate-technology.html</id><summary type="html"></summary></entry><entry><title>High Power Handling Hot-Switching RF-MEMS Switches</title><link href="https://moorepants.github.io/mae297/high-power-handling-hot-switching-rf-mems-switches.html" rel="alternate"></link><published>2017-04-06T00:00:00-07:00</published><updated>2017-04-06T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-06:mae297/high-power-handling-hot-switching-rf-mems-switches.html</id><summary type="html">&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
 and near-zero dc power consumption, radio frequency micro-electromechanical
 (RF-MEMS) switches have been an emerging technology with significant potential
 in many high frequency circuits and systems, especially those requiring
