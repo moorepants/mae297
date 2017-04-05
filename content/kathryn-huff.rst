@@ -28,16 +28,20 @@ Nuclear, Plasma, and Radiological Engineering at the University of Illinois at
 Urbana-Champaign where she leads the Advanced Reactors and Fuel Cycles Research 
 Group (arfc.npre.illinois.edu). She holds an affiliate faculty position with 
 the National Center for Supercomputing Applications and is one of the 
-University of Illinois' most recent Blue Waters Professors. She was previously 
-a Postdoctoral Fellow with both the Nuclear Science and Security Consortium and 
-the Berkeley Institute for Data Science at the University of California - 
-Berkeley. She received her PhD in Nuclear Engineering from the University of 
-Wisconsin-Madison in August 2013 and her undergraduate degree in Physics from 
-the University of Chicago.  Her current research focuses on modeling and 
-simulation of advanced nuclear reactors and fuel cycles. She is currently the 
-elected chair of the Fuel Cycle and Waste Management Division of the American 
-Nuclear Society. Through leadership within the Hacker Within, Software 
-Carpentry, SciPy, the Journal of Open Source Software, and other initiatives 
-she strives to advocate for best practices in open, reproducible scientific 
-computing. 
+University of Illinois' most recent Blue Waters Professors. 
 
+She was previously a Postdoctoral Fellow with both the Nuclear Science and
+Security Consortium and the Berkeley Institute for Data Science at the
+University of California - Berkeley. She received her PhD in Nuclear
+Engineering from the University of Wisconsin-Madison in August 2013 and her
+undergraduate degree in Physics from the University of Chicago. 
+
+Her current research focuses on modeling and simulation of advanced nuclear
+reactors and fuel cycles. She is currently the elected chair of the Fuel Cycle
+and Waste Management Division of the American Nuclear Society. Through
+leadership within the Hacker Within, Software Carpentry, SciPy, the Journal of
+Open Source Software, and other initiatives she strives to advocate for best
+practices in open, reproducible scientific computing.  With colleagues,
+collaborators, and friends, she has co-authored two books to help scientists
+with these practices: Effective Computation in Physics, O'Reilly, 2015 and The
+Practice of Reproducible Research, UC Press, 2017. 
