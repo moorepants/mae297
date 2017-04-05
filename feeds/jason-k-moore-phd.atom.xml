@@ -44,7 +44,34 @@ exercise devices to maintain astronaut health and performance in space. This
 research is translated to help post-surgical treatment and rehabilitation of
 orthopaedic patients, and to improve performance of athletes.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>TBA - Computational Biomechanics</title><link href="https://moorepants.github.io/mae297/tba-computational-biomechanics.html" rel="alternate"></link><published>2017-05-11T00:00:00-07:00</published><updated>2017-05-11T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-11:mae297/tba-computational-biomechanics.html</id><summary type="html"></summary></entry><entry><title>TBA - HVAC, Companies, Patents, Inventions</title><link href="https://moorepants.github.io/mae297/tba-hvac-companies-patents-inventions.html" rel="alternate"></link><published>2017-05-04T00:00:00-07:00</published><updated>2017-05-04T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-04:mae297/tba-hvac-companies-patents-inventions.html</id><summary type="html"></summary></entry><entry><title>Systematic Understanding and Modeling of Origami Sheet Metal folding for Enhanced Mechanical Properties and Topological Re-configurability</title><link href="https://moorepants.github.io/mae297/systematic-understanding-and-modeling-of-origami-sheet-metal-folding-for-enhanced-mechanical-properties-and-topological-re-configurability.html" rel="alternate"></link><published>2017-04-27T00:00:00-07:00</published><updated>2017-04-27T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-27:mae297/systematic-understanding-and-modeling-of-origami-sheet-metal-folding-for-enhanced-mechanical-properties-and-topological-re-configurability.html</id><summary type="html">&lt;p&gt;Emerging fabrication process for mechanical structures can offer advantages in
+</summary></entry><entry><title>TBA - Computational Biomechanics</title><link href="https://moorepants.github.io/mae297/tba-computational-biomechanics.html" rel="alternate"></link><published>2017-05-11T00:00:00-07:00</published><updated>2017-05-11T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-11:mae297/tba-computational-biomechanics.html</id><summary type="html">&lt;p&gt;Understanding the interactions between robotic systems and the human's complex
+musculoskeletal system is a key bottleneck in designing effective assistive
+devices. OpenSim is free and open source software for modeling neural and
+musculoskeletal structures and predicting and analyzing movement. We are using
+the software to predict the effects of assistive devices on human performance
+in tasks such as load carriage, running, and jumping.  We have discovered that
+passive assistive devices have the potential to markedly increase jump
+performance. These results were generated using a dynamic optimization that
+simultaneously optimized human performance and device design. We have also used
+simulations to develop a set of design principles for using assistive devices
+to reduce the metabolic cost of running and walking with a heavy load. OpenSim
+is more than a software package—it has also become a diverse and vibrant
+community of researchers, teachers, and clinicians who use the software for a
+wide range of applications from improving treatment for children with cerebral
+palsy to designing exercises to prevent bone and muscle loss during
+spaceflight. This talk will provide an introduction to the OpenSim project and
+highlight several research applications where we are using the software to
+study human-device interaction and aid assistive device design.&lt;/p&gt;
+&lt;div class="section" id="biography"&gt;
+&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Dr. Hicks is a Senior Research Engineer in the Bioengineering Department at
+Stanford University. She serves as the Associate Director of the National
+Center for Simulation in Rehabilitation Research and the Director of Data
+Science for the Mobilize Center. Her research uses biomechanical modeling,
+along with machine learning methods, to predict the effects of surgery,
+devices, and other interventions on human movement.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>TBA - HVAC, Companies, Patents, Inventions</title><link href="https://moorepants.github.io/mae297/tba-hvac-companies-patents-inventions.html" rel="alternate"></link><published>2017-05-04T00:00:00-07:00</published><updated>2017-05-04T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-04:mae297/tba-hvac-companies-patents-inventions.html</id><summary type="html"></summary></entry><entry><title>Systematic Understanding and Modeling of Origami Sheet Metal folding for Enhanced Mechanical Properties and Topological Re-configurability</title><link href="https://moorepants.github.io/mae297/systematic-understanding-and-modeling-of-origami-sheet-metal-folding-for-enhanced-mechanical-properties-and-topological-re-configurability.html" rel="alternate"></link><published>2017-04-27T00:00:00-07:00</published><updated>2017-04-27T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-27:mae297/systematic-understanding-and-modeling-of-origami-sheet-metal-folding-for-enhanced-mechanical-properties-and-topological-re-configurability.html</id><summary type="html">&lt;p&gt;Emerging fabrication process for mechanical structures can offer advantages in
 terms of reduced energy requirements or increased design flexibility. However,
 the body of knowledge lacks the design consideration of such components to
 optimize the final part's characteristics. Researchers have established best
