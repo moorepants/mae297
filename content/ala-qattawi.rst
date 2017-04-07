@@ -3,6 +3,7 @@
 :speaker: Prof. Ala Qattawi
 :speaker_title: Assitant Professor
 :date: 2017-04-27
+:location: Bainer Hall Room 1062
 :image: qattawi.jpg
 :organization: Mechanical Engineering Department, University of California, Merced
 :org_website: http://me.ucmerced.edu/

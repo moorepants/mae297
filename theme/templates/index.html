@@ -89,6 +89,7 @@
       <div class="portfolio-item">
         <div class="col-xs-4 col-md-3 col-lg-3">
           <h3>{{article.date.strftime('%B %d, %Y')}}</h3>
+          <h5>{{article.location}}</h5>
           <a href="#portfolioModal{{loop.index}}" class="portfolio-link" data-toggle="modal">
             <div class="caption">
               <div class="caption-content">
@@ -139,7 +140,7 @@
                 <h2 style="text-align: center;">{{article.title}}</h2>
                 <h3 style="text-align: center;">{{article.date.strftime("%B %d, %Y")}}</h3>
                 <h5 style="text-align: center;">4:10 PM</h5>
-                <h5 style="text-align: center;">Bainer Hall Room 1062</h5>
+                <h5 style="text-align: center;">{{article.location}}</h5>
                 <hr class="star-primary">
                 <img src="{{ SITEURL }}/headshots/{{article.image}}" class="img-responsive img-centered" alt="">
                 <a href="{{article.personal_website}}">

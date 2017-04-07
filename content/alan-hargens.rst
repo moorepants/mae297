@@ -2,6 +2,7 @@
 :speaker: Prof. Alan R. Hargens
 :speaker_title: Professor of Orthopaedic Surgery
 :date: 2017-05-18
+:location: Bainer Hall Room 1062
 :image: hargens.jpg
 :organization: School of Medicine, University of California, San Diego
 :org_website: http://som.ucsd.edu
@@ -33,8 +34,8 @@ reproduce normal, daily Earth-like stresses. Our long-term objectives are to:
 rehabilitation and translate our findings for Earth Benefit. Supported by NASA
 grants NNX10AM18G and NNX13AM89G.
 
-Bio
-===
+Biography
+=========
 
 Dr. Hargens is Professor and Director of the Orthopaedic Clinical Physiology
 Lab at the UCSD. He previously served as Chief of the Space Physiology Branch

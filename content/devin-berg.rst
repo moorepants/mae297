@@ -1,7 +1,9 @@
 :title: Open Engineering
 :speaker: Prof. Devin Berg
-:speaker_title: Associate Professor; Program Director, Mechanical Engineering; Editor, The Journal of Open Engineering; Director, engrXiv
+:speaker_title: Associate Professor; Program Director, Mechanical Engineering;
+                Editor, The Journal of Open Engineering; Director, engrXiv
 :date: 2017-05-25
+:location: Bainer Hall Room 1062
 :image: berg.jpg
 :organization: Engineering and Technology Department, University of Wisconsin-Stout
 :org_website: http://www.uwstout.edu/programs/bsme/

@@ -2,6 +2,7 @@
 :speaker: Dick Bourne
 :speaker_title: President and CEO
 :date: 2017-05-04
+:location: Bainer Hall Room 1062
 :image: bourne.jpg
 :organization: Integrated Comfort, Inc.
 :org_website: http://www.icidualcool.com/

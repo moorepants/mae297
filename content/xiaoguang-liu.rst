@@ -2,6 +2,7 @@
 :speaker: Prof. Xiaoguang "Leo" Liu
 :speaker_title: Assistant Professor
 :date: 2017-04-06
+:location: Bainer Hall Room 1062
 :image: liu.jpg
 :organization: Department of Electrical and Computer Engineering, University of California, Davis
 :org_website: http://www.ece.ucdavis.edu/

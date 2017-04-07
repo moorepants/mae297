@@ -3,6 +3,7 @@
 :speaker: Prof. Ping Guo
 :speaker_title: Assitant Professor
 :date: 2017-06-01
+:location: Bainer Hall Room 1062
 :image: guo.jpg
 :organization: Department of Mechanical and Automation Engineering, Chinese
                University of Hong Kong
