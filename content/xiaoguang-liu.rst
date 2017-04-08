@@ -7,6 +7,7 @@
 :organization: Department of Electrical and Computer Engineering, University of California, Davis
 :org_website: http://www.ece.ucdavis.edu/
 :personal_website: https://ucdart.github.io/
+:youtube_url: https://www.youtube.com/embed/MzuErfFUM98
 
 Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
 and near-zero dc power consumption, radio frequency micro-electromechanical

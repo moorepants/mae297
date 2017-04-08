@@ -152,6 +152,9 @@
                 </a>
                 <h3>Abstract</h3>
                 {{article.content.replace('h2', 'h3')}}
+                <h3>Video</h3>
+                <iframe width="560" height="315" src="{{article.youtube_url}}" frameborder="0" allowfullscreen></iframe>
+                <br>
                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
               </div>
             </div>
