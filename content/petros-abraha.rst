@@ -6,3 +6,4 @@
 :image: abraha.jpg
 :organization: Meijo University
 :org_website: http://www.meijo-u.ac.jp/english/
+:slug: petros-abraha

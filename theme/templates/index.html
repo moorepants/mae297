@@ -90,7 +90,7 @@
         <div class="col-xs-4 col-md-3 col-lg-3">
           <h3>{{article.date.strftime('%B %-d, %Y')}}</h3>
           <h5>{{article.location}}</h5>
-          <a href="#portfolioModal{{loop.index}}" class="portfolio-link" data-toggle="modal">
+          <a href="#{{article.slug}}" class="portfolio-link" data-toggle="modal">
             <div class="caption">
               <div class="caption-content">
                 <i class="fa fa-search-plus fa-3x"></i>
@@ -104,12 +104,12 @@
           <h6>{{article.organization}}</h6>
         </div>
         <div class="col-xs-8 col-md-9">
-            <a style="color: white;" href="#portfolioModal{{loop.index}}" data-toggle="modal">
+          <a style="color: white;" href="#{{article.slug}}" data-toggle="modal">
           <h3>{{article.title}}</h3>
           </a>
           {{article.summary}}
           <p>
-            <a style="color: #004aab;" href="#portfolioModal{{loop.index}}" data-toggle="modal">Read more</a>
+            <a style="color: #004aab;" href="#{{article.slug}}" data-toggle="modal">Read more</a>
           </p>
         </div>
       </div>
@@ -125,7 +125,7 @@
 {% block modals %}
   {% if articles %}
     {% for article in articles_page.object_list|sort(attribute='date') %}
-    <div class="portfolio-modal modal fade" id="portfolioModal{{loop.index}}" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="portfolio-modal modal fade" id="{{article.slug}}" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
           <div class="lr">

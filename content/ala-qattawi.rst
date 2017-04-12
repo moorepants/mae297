@@ -8,6 +8,7 @@
 :organization: Mechanical Engineering Department, University of California, Merced
 :org_website: http://me.ucmerced.edu/
 :personal_website: https://www.alaqattawi.net/
+:slug: ala-qattawi
 
 Emerging fabrication process for mechanical structures can offer advantages in
 terms of reduced energy requirements or increased design flexibility. However,

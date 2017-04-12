@@ -7,6 +7,7 @@
 :organization: Integrated Comfort, Inc.
 :org_website: http://www.icidualcool.com/
 :personal_website: http://www.icidualcool.com/company-2/teams/dick-bourne/
+:slug: dick-bourne
 
 Dick Bourne, founder of the Davis Energy Group, the UC Davis Western Cooling
 Efficiency Center, and Integrated Comfort, Inc. will review key experiences in

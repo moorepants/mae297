@@ -7,6 +7,7 @@
 :organization: School of Medicine, University of California, San Diego
 :org_website: http://som.ucsd.edu
 :personal_website: http://bones.ucsd.edu
+:slug: alan-hargens
 
 During spaceflight astronauts experience musculoskeletal losses and moderate to
 severe lumbar pain. There is also a significant incidence of herniated

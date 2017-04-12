@@ -17,8 +17,8 @@
 {% if articles %}
 {% for article in articles_page.object_list|sort(attribute='date') %}
   $(document).ready(function() {
-    if(window.location.href.indexOf('#portfolioModal{{loop.index}}') != -1) {
-      $('#portfolioModal{{loop.index}}').modal('show');
+    if(window.location.href.indexOf('#{{article.slug}}') != -1) {
+      $('#{{article.slug}}').modal('show');
     }
 
   });

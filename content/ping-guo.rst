@@ -9,6 +9,7 @@
                University of Hong Kong
 :org_website: http://www.mae.cuhk.edu.hk
 :personal_website: http://www.mae.cuhk.edu.hk/people/list.php?name=pguo
+:slug: ping-guo
 
 Micro-structured surfaces are assuming an ever-increasing role since they
 define the ultimate performance of many industrial components and products.

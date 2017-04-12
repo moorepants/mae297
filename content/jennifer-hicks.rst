@@ -7,6 +7,7 @@
 :organization: Neuromuscular Biomechanics Lab, Stanford University
 :org_website: http://nmbl.stanford.edu
 :personal_website: http://nmbl.stanford.edu/people/jen-hicks
+:slug: jennifer-hicks
 
 Understanding the interactions between robotic systems and the human's complex
 musculoskeletal system is a key bottleneck in designing effective assistive
