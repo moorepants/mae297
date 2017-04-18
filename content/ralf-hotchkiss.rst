@@ -8,6 +8,7 @@
 :org_website: https://whirlwindwheelchair.org
 :personal_website: https://en.wikipedia.org/wiki/Ralf_Hotchkiss
 :slug: ralf-hotchkiss
+:youtube_url: https://www.youtube.com/embed/hnSOw3ACmcs
 
 Ralf Hotchkiss will track the design of the Whirlwind Wheelchair from its
 beginning thirty years ago to the present and on into the future. From the
