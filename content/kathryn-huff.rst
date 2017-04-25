@@ -8,6 +8,7 @@
 :org_website: http://npre.illinois.edu
 :personal_website: http://kdhuff.npre.illinois.edu
 :slug: kathryn-huff
+:youtube_url: https://www.youtube.com/embed/YqTxZC1i-B0
 
 Nuclear power provides the majority of our nation's safe, reliable, carbon free
 energy. Advanced nuclear reactors and nuclear fuel cycles promise to further
