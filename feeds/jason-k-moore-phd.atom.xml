@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MAE 297</title><link href="https://moorepants.github.io/mae297/" rel="alternate"></link><link href="https://moorepants.github.io/mae297/feeds/jason-k-moore-phd.atom.xml" rel="self"></link><id>https://moorepants.github.io/mae297/</id><updated>2017-06-08T00:00:00-07:00</updated><entry><title>TBA - Surface Treatment of Materials</title><link href="https://moorepants.github.io/mae297/petros-abraha.html" rel="alternate"></link><published>2017-06-08T00:00:00-07:00</published><updated>2017-06-08T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-08:mae297/petros-abraha.html</id><summary type="html"></summary></entry><entry><title>Structural Coloration of Metallic Surfaces Using Elliptical Vibration Texturing</title><link href="https://moorepants.github.io/mae297/ping-guo.html" rel="alternate"></link><published>2017-06-01T00:00:00-07:00</published><updated>2017-06-01T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-01:mae297/ping-guo.html</id><summary type="html">&lt;p&gt;Micro-structured surfaces are assuming an ever-increasing role since they
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MAE 297 - Jason K. Moore, PhD</title><link href="https://moorepants.github.io/mae297/" rel="alternate"></link><link href="https://moorepants.github.io/mae297/feeds/jason-k-moore-phd.atom.xml" rel="self"></link><id>https://moorepants.github.io/mae297/</id><updated>2017-06-08T00:00:00-07:00</updated><entry><title>TBA - Surface Treatment of Materials</title><link href="https://moorepants.github.io/mae297/petros-abraha.html" rel="alternate"></link><published>2017-06-08T00:00:00-07:00</published><updated>2017-06-08T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-08:/mae297/petros-abraha.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>Structural Coloration of Metallic Surfaces Using Elliptical Vibration Texturing</title><link href="https://moorepants.github.io/mae297/ping-guo.html" rel="alternate"></link><published>2017-06-01T00:00:00-07:00</published><updated>2017-06-01T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-01:/mae297/ping-guo.html</id><summary type="html">&lt;p&gt;Micro-structured surfaces are assuming an ever-increasing role since they
+define the ultimate performance of many industrial components and products.
+Surface micro-structures, when carefully designed, can alter the optical,
+biological, tribological, and thermal properties of the original surfaces. The
+bottleneck of applying this new technology to commercial products is
+manufacturing efficiency. This talk demonstrates one example of using a novel
+vibration-assisted machining method for fast creation of periodic
+micro/nano-gratings for structural coloration. When the tool vibration is
+coupled with a constant cutting velocity, periodic cusps can be generated due
+to the machining marks. The periodic vibration-induced ripples can be precisely …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Micro-structured surfaces are assuming an ever-increasing role since they
 define the ultimate performance of many industrial components and products.
 Surface micro-structures, when carefully designed, can alter the optical,
 biological, tribological, and thermal properties of the original surfaces. The
@@ -25,7 +34,14 @@ August, 2014. His research interests center on the paradigm of
 micro-manufacturing, including surface texturing, process micro-mechanics,
 miniature machine tools, micro-additive manufacturing, etc.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Open Engineering</title><link href="https://moorepants.github.io/mae297/devin-berg.html" rel="alternate"></link><published>2017-05-25T00:00:00-07:00</published><updated>2017-05-25T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-25:mae297/devin-berg.html</id><summary type="html">&lt;p&gt;As engineering researchers and scholars, we hope to have an impact on the world
+</content></entry><entry><title>Open Engineering</title><link href="https://moorepants.github.io/mae297/devin-berg.html" rel="alternate"></link><published>2017-05-25T00:00:00-07:00</published><updated>2017-05-25T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-25:/mae297/devin-berg.html</id><summary type="html">&lt;p&gt;As engineering researchers and scholars, we hope to have an impact on the world
+through our work. Many of us went into this field in pursuit of the dream of
+using our skills and training to help improve the lives of others.
+Unfortunately, through the pressures of career advancement we find ourselves
+creating and publishing work that will be read by a handful (sometimes fewer)
+of others. While practicing open engineering won't guarantee that more people
+will read your work, it does remove many of the barriers to access that make it
+difficult for millions of people around the world …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As engineering researchers and scholars, we hope to have an impact on the world
 through our work. Many of us went into this field in pursuit of the dream of
 using our skills and training to help improve the lives of others.
 Unfortunately, through the pressures of career advancement we find ourselves
@@ -55,7 +71,15 @@ Open Engineering&lt;/a&gt;, an experiment in fully open
 engineering publishing, and &lt;a class="reference external" href="http://www.engrxiv.org/"&gt;engrXiv&lt;/a&gt;, an eprint
 server for the engineering field.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Musculoskeletal Loss and Exercise Countermeasures for Space Flight</title><link href="https://moorepants.github.io/mae297/alan-hargens.html" rel="alternate"></link><published>2017-05-18T00:00:00-07:00</published><updated>2017-05-18T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-18:mae297/alan-hargens.html</id><summary type="html">&lt;p&gt;During spaceflight astronauts experience musculoskeletal losses and moderate to
+</content></entry><entry><title>Musculoskeletal Loss and Exercise Countermeasures for Space Flight</title><link href="https://moorepants.github.io/mae297/alan-hargens.html" rel="alternate"></link><published>2017-05-18T00:00:00-07:00</published><updated>2017-05-18T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-18:/mae297/alan-hargens.html</id><summary type="html">&lt;p&gt;During spaceflight astronauts experience musculoskeletal losses and moderate to
+severe lumbar pain. There is also a significant incidence of herniated
+intervertebral disc (IVD) in astronauts, especially in the first year after
+return to Earth. The pathogenesis of back pain during and after spaceflight is
+currently unknown. Our current investigation aims to understand this higher
+incidence of herniated IVDs and back pain. Studies incorporate pre- and
+post-flight imaging, functional tests, and pain questionnaires of International
+Space Station (ISS) crew members to ascertain mechanisms of back pain as well
+as degeneration and injury to spinal structures. Presently six out of 12 ISS …&lt;/p&gt;</summary><content type="html">&lt;p&gt;During spaceflight astronauts experience musculoskeletal losses and moderate to
 severe lumbar pain. There is also a significant incidence of herniated
 intervertebral disc (IVD) in astronauts, especially in the first year after
 return to Earth. The pathogenesis of back pain during and after spaceflight is
@@ -95,7 +119,16 @@ exercise devices to maintain astronaut health and performance in space. This
 research is translated to help post-surgical treatment and rehabilitation of
 orthopaedic patients, and to improve performance of athletes.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>OpenSim: A simulator to study human-device interaction</title><link href="https://moorepants.github.io/mae297/jennifer-hicks.html" rel="alternate"></link><published>2017-05-11T00:00:00-07:00</published><updated>2017-05-11T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-11:mae297/jennifer-hicks.html</id><summary type="html">&lt;p&gt;Understanding the interactions between robotic systems and the human's complex
+</content></entry><entry><title>OpenSim: A simulator to study human-device interaction</title><link href="https://moorepants.github.io/mae297/jennifer-hicks.html" rel="alternate"></link><published>2017-05-11T00:00:00-07:00</published><updated>2017-05-11T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-11:/mae297/jennifer-hicks.html</id><summary type="html">&lt;p&gt;Understanding the interactions between robotic systems and the human's complex
+musculoskeletal system is a key bottleneck in designing effective assistive
+devices. OpenSim is free and open source software for modeling neural and
+musculoskeletal structures and predicting and analyzing movement. We are using
+the software to predict the effects of assistive devices on human performance
+in tasks such as load carriage, running, and jumping.  We have discovered that
+passive assistive devices have the potential to markedly increase jump
+performance. These results were generated using a dynamic optimization that
+simultaneously optimized human performance and device design. We have also used
+simulations to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Understanding the interactions between robotic systems and the human's complex
 musculoskeletal system is a key bottleneck in designing effective assistive
 devices. OpenSim is free and open source software for modeling neural and
 musculoskeletal structures and predicting and analyzing movement. We are using
@@ -122,7 +155,14 @@ Science for the Mobilize Center. Her research uses biomechanical modeling,
 along with machine learning methods, to predict the effects of surgery,
 devices, and other interventions on human movement.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Lessons Learned: A Left-Handed Lifetime of Inventing</title><link href="https://moorepants.github.io/mae297/dick-bourne.html" rel="alternate"></link><published>2017-05-04T00:00:00-07:00</published><updated>2017-05-04T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-04:mae297/dick-bourne.html</id><summary type="html">&lt;p&gt;Dick Bourne, founder of the Davis Energy Group, the UC Davis Western Cooling
+</content></entry><entry><title>Lessons Learned: A Left-Handed Lifetime of Inventing</title><link href="https://moorepants.github.io/mae297/dick-bourne.html" rel="alternate"></link><published>2017-05-04T00:00:00-07:00</published><updated>2017-05-04T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-05-04:/mae297/dick-bourne.html</id><summary type="html">&lt;p&gt;Dick Bourne, founder of the Davis Energy Group, the UC Davis Western Cooling
+Efficiency Center, and Integrated Comfort, Inc. will review key experiences in
+his life as an inventor, for two purposes: 1) the drawing of lessons useful to
+the young and creative; and 2) entertainment. From his inventive start as a
+grad student in the Stanford Design Division, where he was also a writer in the
+Engineering Case Program, Dick will describe how studying the inventing process
+and working with creative designers nurtured his early (but failed) attempt to
+support a family as an independent inventor. After reviewing several …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dick Bourne, founder of the Davis Energy Group, the UC Davis Western Cooling
 Efficiency Center, and Integrated Comfort, Inc. will review key experiences in
 his life as an inventor, for two purposes: 1) the drawing of lessons useful to
 the young and creative; and 2) entertainment. From his inventive start as a
@@ -150,7 +190,17 @@ Nebraska, Dick moved to Davis in 1978 and formed the Davis Energy Group. In
 He retired from UCD in 2009 and later joined Integrated Comfort to focus on
 marketing his DualCool invention. Dick holds 22 U.S. patents.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Systematic Understanding and Modeling of Origami Sheet Metal folding for Enhanced Mechanical Properties and Topological Re-configurability</title><link href="https://moorepants.github.io/mae297/ala-qattawi.html" rel="alternate"></link><published>2017-04-27T00:00:00-07:00</published><updated>2017-04-27T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-27:mae297/ala-qattawi.html</id><summary type="html">&lt;p&gt;Emerging fabrication process for mechanical structures can offer advantages in
+</content></entry><entry><title>Systematic Understanding and Modeling of Origami Sheet Metal folding for Enhanced Mechanical Properties and Topological Re-configurability</title><link href="https://moorepants.github.io/mae297/ala-qattawi.html" rel="alternate"></link><published>2017-04-27T00:00:00-07:00</published><updated>2017-04-27T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-27:/mae297/ala-qattawi.html</id><summary type="html">&lt;p&gt;Emerging fabrication process for mechanical structures can offer advantages in
+terms of reduced energy requirements or increased design flexibility. However,
+the body of knowledge lacks the design consideration of such components to
+optimize the final part's characteristics. Researchers have established best
+practices and design considerations for traditional manufacturing processes to
+reduce the product cycle and increase the efficiency and quality of final
+components. This talk will discuss the implementation of design-for
+manufacturing approach for Origami sheet metal (OSM) folding fabrication
+process.&lt;/p&gt;
+&lt;p&gt;OSM folded structures are promising topological entities that can be folded
+from a flat metal sheet to complex 3-dimensional …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Emerging fabrication process for mechanical structures can offer advantages in
 terms of reduced energy requirements or increased design flexibility. However,
 the body of knowledge lacks the design consideration of such components to
 optimize the final part's characteristics. Researchers have established best
@@ -188,7 +238,16 @@ Emerging Scholar. Qattawi's research has been funded by the University of
 California President Office, The Hellman Foundation, and The University of
 California Institute for Mexico and the United States (UC MEXUS).&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Modeling and Simulation of Advanced Reactors and Fuel Cycles - Computational Science and Engineering</title><link href="https://moorepants.github.io/mae297/kathryn-huff.html" rel="alternate"></link><published>2017-04-20T00:00:00-07:00</published><updated>2017-04-20T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-20:mae297/kathryn-huff.html</id><summary type="html">&lt;p&gt;Nuclear power provides the majority of our nation's safe, reliable, carbon free
+</content></entry><entry><title>Modeling and Simulation of Advanced Reactors and Fuel Cycles - Computational Science and Engineering</title><link href="https://moorepants.github.io/mae297/kathryn-huff.html" rel="alternate"></link><published>2017-04-20T00:00:00-07:00</published><updated>2017-04-20T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-20:/mae297/kathryn-huff.html</id><summary type="html">&lt;p&gt;Nuclear power provides the majority of our nation's safe, reliable, carbon free
+energy. Advanced nuclear reactors and nuclear fuel cycles promise to further
+improve passive safety, fuel utilization, and environmental impacts of this key
+energy source. This seminar will discuss open, reproducible, computational
+approaches to modeling and simulation of the multiple coupled physics and
+scales inherent to these systems. Approaches will include (1) agent based
+modeling of future energy growth, reprocessing, and fuel management scenarios,
+(2) the interplay between probabilistic and deterministic neutron transport
+methods for design and safety analysis, and (3) development of reactor physics
+kernels for the MOOSE …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Nuclear power provides the majority of our nation's safe, reliable, carbon free
 energy. Advanced nuclear reactors and nuclear fuel cycles promise to further
 improve passive safety, fuel utilization, and environmental impacts of this key
 energy source. This seminar will discuss open, reproducible, computational
@@ -222,7 +281,15 @@ collaborators, and friends, she has co-authored two books to help scientists
 with these practices: Effective Computation in Physics, O'Reilly, 2015 and The
 Practice of Reproducible Research, UC Press, 2017.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Wheelchair Fabrication in Developing Countries</title><link href="https://moorepants.github.io/mae297/ralf-hotchkiss.html" rel="alternate"></link><published>2017-04-13T00:00:00-07:00</published><updated>2017-04-13T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-13:mae297/ralf-hotchkiss.html</id><summary type="html">&lt;p&gt;Ralf Hotchkiss will track the design of the Whirlwind Wheelchair from its
+</content></entry><entry><title>Wheelchair Fabrication in Developing Countries</title><link href="https://moorepants.github.io/mae297/ralf-hotchkiss.html" rel="alternate"></link><published>2017-04-13T00:00:00-07:00</published><updated>2017-04-13T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-13:/mae297/ralf-hotchkiss.html</id><summary type="html">&lt;p&gt;Ralf Hotchkiss will track the design of the Whirlwind Wheelchair from its
+beginning thirty years ago to the present and on into the future. From the
+first design breakthroughs of barefoot blacksmiths to the high tech testing and
+manufacturing methods of today, surprise breakthroughs in basic wheelchair
+design have come from the backyard inventors of some forty developing
+countries. These inventors form the Whirlwind Network of wheelchair riders and
+designers. Their goal is not only to make wheelchairs available in the poorest
+of countries; it is to radically improve the durability and rough-ground
+mobility so that wheelchair riders can live …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ralf Hotchkiss will track the design of the Whirlwind Wheelchair from its
 beginning thirty years ago to the present and on into the future. From the
 first design breakthroughs of barefoot blacksmiths to the high tech testing and
 manufacturing methods of today, surprise breakthroughs in basic wheelchair
@@ -246,7 +313,16 @@ Construction, in which students built a complete wheelchair in a Third World
 appropriate shop. Ralf is a graduate of Oberlin College and a &lt;a class="reference external" href="http://www.macfound.org/fellows/365/"&gt;1989 MacArthur
 Foundation Fellow&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>High Power Handling Hot-Switching RF-MEMS Switches</title><link href="https://moorepants.github.io/mae297/xiaoguang-liu.html" rel="alternate"></link><published>2017-04-06T00:00:00-07:00</published><updated>2017-04-06T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-06:mae297/xiaoguang-liu.html</id><summary type="html">&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
+</content></entry><entry><title>High Power Handling Hot-Switching RF-MEMS Switches</title><link href="https://moorepants.github.io/mae297/xiaoguang-liu.html" rel="alternate"></link><published>2017-04-06T00:00:00-07:00</published><updated>2017-04-06T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-04-06:/mae297/xiaoguang-liu.html</id><summary type="html">&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
+and near-zero dc power consumption, radio frequency micro-electromechanical
+(RF-MEMS) switches have been an emerging technology with significant potential
+in many high frequency circuits and systems, especially those requiring
+reconfiguration. In this talk, we present several RF-MEMS switch designs that
+can significantly extend the hot-switching life-time of RF-MEMS contact
+switches. To prevent the contact degradation during hot-switching events,
+series and/or protection contacts are added in parallel with the &amp;quot;real&amp;quot;
+contacts. For unpackaged devices using Au-Au as the &amp;quot;real&amp;quot; contact material and
+Pt-Au as the protection contact material, we …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Due to its low insertion loss, high isolation, high linearity, wide bandwidth,
 and near-zero dc power consumption, radio frequency micro-electromechanical
 (RF-MEMS) switches have been an emerging technology with significant potential
 in many high frequency circuits and systems, especially those requiring
@@ -269,4 +345,4 @@ reconfigurable high frequency components, high frequency integrated circuits,
 and biomedical and industrial applications of high frequency communication and
 sensing systems.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry></feed>
+</content></entry></feed>
