@@ -9,6 +9,7 @@
 :org_website: http://me.ucmerced.edu/
 :personal_website: https://www.alaqattawi.net/
 :slug: ala-qattawi
+:youtube_url: https://www.youtube.com/embed/Ukgwtx4YYx8
 
 Emerging fabrication process for mechanical structures can offer advantages in
 terms of reduced energy requirements or increased design flexibility. However,
