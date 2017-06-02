@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MAE 297 - Jason K. Moore, PhD</title><link href="https://moorepants.github.io/mae297/" rel="alternate"></link><link href="https://moorepants.github.io/mae297/feeds/jason-k-moore-phd.atom.xml" rel="self"></link><id>https://moorepants.github.io/mae297/</id><updated>2017-06-08T00:00:00-07:00</updated><entry><title>TBA - Surface Treatment of Materials</title><link href="https://moorepants.github.io/mae297/petros-abraha.html" rel="alternate"></link><published>2017-06-08T00:00:00-07:00</published><updated>2017-06-08T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-08:/mae297/petros-abraha.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>Structural Coloration of Metallic Surfaces Using Elliptical Vibration Texturing</title><link href="https://moorepants.github.io/mae297/ping-guo.html" rel="alternate"></link><published>2017-06-01T00:00:00-07:00</published><updated>2017-06-01T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-01:/mae297/ping-guo.html</id><summary type="html">&lt;p&gt;Micro-structured surfaces are assuming an ever-increasing role since they
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MAE 297 - Jason K. Moore, PhD</title><link href="https://moorepants.github.io/mae297/" rel="alternate"></link><link href="https://moorepants.github.io/mae297/feeds/jason-k-moore-phd.atom.xml" rel="self"></link><id>https://moorepants.github.io/mae297/</id><updated>2017-06-08T00:00:00-07:00</updated><entry><title>Plasma Based Surface Hardening of Metals</title><link href="https://moorepants.github.io/mae297/petros-abraha.html" rel="alternate"></link><published>2017-06-08T00:00:00-07:00</published><updated>2017-06-08T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-08:/mae297/petros-abraha.html</id><summary type="html">&lt;p&gt;Surface hardening is a process that includes a wide variety of techniques used
+to improve the wear resistance of metallic parts without affecting the softer,
+tough interior bulk material. Hardened metals are usually more brittle than
+softer metals, there fore, hardening metals throughout the surface and bulk, is
+not always a suitable choice of treatment for parts subject to various kinds of
+stresses. In such circumstances, case-hardening can provide a better solution
+against fracture and adequate wear resistance. There are several methods of
+surface hardening techniques: flame hardening and induction heating; and
+diffusion methods such as carburizing and nitriding. The …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Surface hardening is a process that includes a wide variety of techniques used
+to improve the wear resistance of metallic parts without affecting the softer,
+tough interior bulk material. Hardened metals are usually more brittle than
+softer metals, there fore, hardening metals throughout the surface and bulk, is
+not always a suitable choice of treatment for parts subject to various kinds of
+stresses. In such circumstances, case-hardening can provide a better solution
+against fracture and adequate wear resistance. There are several methods of
+surface hardening techniques: flame hardening and induction heating; and
+diffusion methods such as carburizing and nitriding. The present standard
+industrial practice of nitriding uses high power DC glow discharge nitriding in
+which plasma is produced between the anode (work material) and the cathode.
+Here, I will detail plasma nitriding that uses low power electron beam excited
+plasma in which the neutral particles play a major role in nitriding the work
+material. A glimpse of a new plasma nitriding equipment developed recently will
+also be discussed.&lt;/p&gt;
+&lt;div class="section" id="biography"&gt;
+&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Petros Abraha is a Professor in the mechanical engineering department of Meijo
+University in Nagoya Japan. Petros completed his Ph.D. at Nagoya University and
+his undergraduate studies at Addis Ababa University, Ethiopia. Petros has been
+a faculty member of Meijo University since 1998 and is currently serving in the
+executive committee of the central Japan branch of the Japan society for
+precision engineering.&lt;/p&gt;
+&lt;p&gt;Research interests: plasma surface (metal) interactions and the development of
+plasma processing equipment.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>Structural Coloration of Metallic Surfaces Using Elliptical Vibration Texturing</title><link href="https://moorepants.github.io/mae297/ping-guo.html" rel="alternate"></link><published>2017-06-01T00:00:00-07:00</published><updated>2017-06-01T00:00:00-07:00</updated><author><name>Jason K. Moore, PhD</name></author><id>tag:moorepants.github.io,2017-06-01:/mae297/ping-guo.html</id><summary type="html">&lt;p&gt;Micro-structured surfaces are assuming an ever-increasing role since they
 define the ultimate performance of many industrial components and products.
 Surface micro-structures, when carefully designed, can alter the optical,
 biological, tribological, and thermal properties of the original surfaces. The
