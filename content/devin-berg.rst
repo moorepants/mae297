@@ -9,6 +9,7 @@
 :org_website: http://www.uwstout.edu/programs/bsme/
 :personal_website: http://www.devinberg.com/
 :slug: devin-berg
+:youtube_url: https://www.youtube.com/embed/bdhGRLcPohs
 
 As engineering researchers and scholars, we hope to have an impact on the world
 through our work. Many of us went into this field in pursuit of the dream of

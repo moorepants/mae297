@@ -10,6 +10,7 @@
 :org_website: http://www.mae.cuhk.edu.hk
 :personal_website: http://www.mae.cuhk.edu.hk/people/list.php?name=pguo
 :slug: ping-guo
+:youtube_url: https://www.youtube.com/embed/kTYYv9qjzqk
 
 Micro-structured surfaces are assuming an ever-increasing role since they
 define the ultimate performance of many industrial components and products.
